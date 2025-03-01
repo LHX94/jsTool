@@ -1,12 +1,12 @@
 {
   "name": "ax-tooljs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "jsTool.js",
   "module": "jsTool.js",
   "type": "module",
   "dependencies": {
-    "ax-tooljs": "1.0.3"
+    "ax-tooljs": "1.0.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
